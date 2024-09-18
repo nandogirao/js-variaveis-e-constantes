@@ -2,7 +2,7 @@
 
 ### variáveis
 
-- E um espaço na memória do computador para armazenar uma informação/valor
+- E um espaço na memória do computador para armazenar uma informação/valor, mas que pode ser alterado posteriormente.
 
 - #### padrões de nomenclatua
 
@@ -14,4 +14,13 @@
 
 -snake_case: escreve tudo minusculo e adiciona um underline para separrar as palavras.
 
-- PascoalCase: começa com a letra maiúsmcula e casa palavra adiciona mais uma letra maiúscula, ex -> NomeComposto.
+- PascoalCase: começa com a letra maiúscula e casa palavra adiciona mais uma letra maiúscula, ex -> NomeComposto.
+
+### Constantes
+
+- É um espaço da mamória que armazena um valor , mas não pode ser alterado!
+
+### Tipos de dados
+
+- Variáveis e Constates possuem tipos, e os principais são: string, number e boolean
+
